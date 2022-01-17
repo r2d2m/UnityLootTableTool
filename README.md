@@ -1,6 +1,6 @@
 # UnityLootTableTool
 A data driven loot table editor tool for Unity 3D.
-
+ 
 ## Background
 
 This projects focus was to create a Loot Table Editor, with a custom utility built into the Unity editor in a period of 2 weeks.
@@ -10,26 +10,28 @@ to be pushed to a CDN and not require costly game updates through an app store.
 There is a small demo included that features a basic inventory system, some wandering enemies and the ability to
 attack enemies and collect drops.
 
+[Download Release Build Here](https://github.com/GroverErin/UnityLootTableTool/releases/download/v1.0.0/GroverErin_GAP351_FinalBuild_121621.zip)
+
 ## Screenshots
 
 Loot Table Editor Tool:
 <p align="center">
-  <img src="https://github.com/GroverErin/UnityLootTableTool/blob/main/Screenshots/Editor1.gif?raw=true" alt="Loot Table Editor"/>
+  <img src="https://github.com/GroverErin/UnityLootTableTool/blob/main/Screenshots/Editor1.png?raw=true" alt="Loot Table Editor"/>
 </p>
 
 Gameplay Start:
 <p align="center">
-  <img src="https://github.com/GroverErin/UnityLootTableTool/blob/main/Screenshots/Gameplay1.gif?raw=true" alt="Game Demo"/>
+  <img src="https://github.com/GroverErin/UnityLootTableTool/blob/main/Screenshots/Gameplay1.png?raw=true" alt="Game Demo"/>
 </p>
 
 Item Dropped on Enemy Death:
 <p align="center">
-  <img src="https://github.com/GroverErin/UnityLootTableTool/blob/main/Screenshots/Gameplay2.gif?raw=true" alt="Item Dropped"/>
+  <img src="https://github.com/GroverErin/UnityLootTableTool/blob/main/Screenshots/Gameplay2.png?raw=true" alt="Item Dropped"/>
 </p>
 
 Item Collected and Inventory Display:
 <p align="center">
-  <img src="https://github.com/GroverErin/UnityLootTableTool/blob/main/Screenshots/Gameplay3.gif?raw=true" alt="Item Collected"/>
+  <img src="https://github.com/GroverErin/UnityLootTableTool/blob/main/Screenshots/Gameplay3.png?raw=true" alt="Item Collected"/>
 </p>
 
 ## Getting Started
