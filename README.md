@@ -52,3 +52,7 @@ Tables currently don't clamp the total item weights to 1.0, so item spawn chance
 item weights in tables should be manually made to be 1.0 or some items may never drop.
 
 Enemies dont animate. This isn't a bug, I just ran out of time on this project to add that little extra polish.
+
+## TODO : 
+- [ ] add an option to drop multiple items per death
+- [ ] Add an option per item to drop only once per death. If all are checked, you can't drop twice the same item at all
